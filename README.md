@@ -17,6 +17,6 @@
   <a href="https://discord.gg/EyqbKgt2jH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kenjicode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://https://github.com/xKenj1/xKenj1/blob/main/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://https://github.com/xKenj1/xKenj1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
